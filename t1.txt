@@ -1,1 +1,2 @@
-Ovo je sada dodatni kod u nasem programu.
+Ovo je sada dodatni kod u nasem.
+Evo sada i nove linije u kodu, pored brisanja dijela iz prve linije.
